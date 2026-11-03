@@ -1,4 +1,4 @@
-# calc-engineer
+# calc.engineer
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-calc-engineer is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://calc.engineer/
+Calc.engineer provides a free in-browser SPICE circuit simulator, PCB autorouter, and 89 engineering calculators covering RF, LoRa, solar, PCB and homelab. It offers an MCP-native REST API for AI agents without signup, aiming to empower engineers with accessible simulation tools.
+
+**Areas:** Company · Engineering · Simulation · Calculator · API
+
+## calc.engineer on APIs.io
+
+Everything profiled for calc.engineer is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/calc-engineer/](https://apis.io/providers/calc-engineer/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [calc.engineer Auth API](https://apis.io/apis/calc-engineer/calc-engineer-auth-api/) — The auth API from calc.engineer — 2 operation(s) for auth.
+- [calc.engineer Catalog API](https://apis.io/apis/calc-engineer/calc-engineer-catalog-api/) — The catalog API from calc.engineer — 1 operation(s) for catalog.
+- [calc.engineer Docs API](https://apis.io/apis/calc-engineer/calc-engineer-docs-api/) — The docs API from calc.engineer — 1 operation(s) for docs.
+- [calc.engineer General API](https://apis.io/apis/calc-engineer/calc-engineer-general-api/) — The general API from calc.engineer — 23 operation(s) for general.
+- [calc.engineer Homelab API](https://apis.io/apis/calc-engineer/calc-engineer-homelab-api/) — The homelab API from calc.engineer — 13 operation(s) for homelab.
+- [calc.engineer Mesh API](https://apis.io/apis/calc-engineer/calc-engineer-mesh-api/) — The mesh API from calc.engineer — 10 operation(s) for mesh.
+- [calc.engineer Pcb API](https://apis.io/apis/calc-engineer/calc-engineer-pcb-api/) — The pcb API from calc.engineer — 14 operation(s) for pcb.
+- [calc.engineer Power API](https://apis.io/apis/calc-engineer/calc-engineer-power-api/) — The power API from calc.engineer — 15 operation(s) for power.
+- [calc.engineer Rf API](https://apis.io/apis/calc-engineer/calc-engineer-rf-api/) — The rf API from calc.engineer — 13 operation(s) for rf.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Calc Engineer Agentic Access](https://apis.io/agentic-access/calc-engineer/calc-engineer-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [calc.engineer API Rules](https://apis.io/rules/calc-engineer/calc-engineer-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Calc Engineer Domain Security](https://apis.io/security/calc-engineer/calc-engineer-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://calc.engineer/)
+- [API reference](https://calc.engineer/api/docs)
+
+## API Evangelist rating
+
+**Kin Score 28.3** — thin · rubric 0.25.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 40.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 29.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/calc-engineer/](https://apis.io/providers/calc-engineer/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for calc.engineer: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/calc-engineer/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
